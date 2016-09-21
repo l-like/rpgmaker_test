@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 wasd
 commint test
 
 ↑の変更が見えた
-=======
-wasd
->>>>>>> parent of 9bab66d... comicomi
